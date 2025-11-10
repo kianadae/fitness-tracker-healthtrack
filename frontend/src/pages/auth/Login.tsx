@@ -74,13 +74,16 @@ const Login = () => {
       <StyledPaper>
         <Box 
           component="img"
-          src="/logo.svg" 
+          src="/new-logo.png"
           alt="HealthTrack" 
           sx={{ 
-            height: 60, 
+            height: 80, 
+            width: 'auto',
+            maxWidth: '200px',
             mb: 3,
             display: 'block',
-            margin: '0 auto'
+            margin: '0 auto',
+            objectFit: 'contain'
           }} 
         />
         

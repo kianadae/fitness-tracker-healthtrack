@@ -35,7 +35,7 @@ const PublicLayout = () => {
         <Box sx={{ maxWidth: 500, textAlign: 'center' }}>
           <Box
             component="img"
-            src="/logo-white.svg"
+            src="/pulse.png"
             alt="HealthTrack"
             sx={{ height: 60, mb: 3 }}
           />
@@ -47,7 +47,7 @@ const PublicLayout = () => {
           </Typography>
           <Box
             component="img"
-            src="/fitness-illustration.svg"
+            src="/watch.png"
             alt="Fitness tracking"
             sx={{ maxWidth: '100%', height: 'auto', mt: 4 }}
           />
