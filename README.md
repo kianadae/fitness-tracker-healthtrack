@@ -63,7 +63,7 @@ A modern, full-stack fitness tracking application built with Django and React fo
 ### Backend Setup
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/fitness-tracker-healthtrack.git
+git clone https://github.com/kianadae/fitness-tracker-healthtrack.git
 cd fitness-tracker-healthtrack/backend
 
 # Create virtual environment
